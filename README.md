@@ -5,7 +5,7 @@
 
 # Disclaimer
 
-This is a temporary website, under construction.
+(This)[index.markdown] is a temporary website, under construction.
 
 The permanent site is linked above.
 
