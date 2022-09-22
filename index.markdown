@@ -5,7 +5,9 @@
 
 # Disclaimer
 
-(This)[index.markdown] is a temporary website, under construction.
+[This](index.markdown) is a temporary website, under construction.
+
+[This other page](test.markdown) is a test.
 
 The permanent site is linked above.
 
