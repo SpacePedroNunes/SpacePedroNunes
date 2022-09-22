@@ -1,6 +1,10 @@
 # Test page
------
 
+The # above means H1. I can link to [Line](#line) below.
+
+## Header 2
+
+The ## above becomes H2
 Does the line above become a link. Local link? If that's the case, how do I name it?
 
 [This](index.markdown) is a temporary website, under construction.
