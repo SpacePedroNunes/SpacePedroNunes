@@ -1,21 +1,38 @@
-- 👋 Hi, we are ESA Space Solutions Portugal.
-- 👀 We support entrepreneurs with innovative ideas to develop their business in space and on Earth.
-- 🌱 This is done via startup incubation and the funding of feasibility projects, both sponsored by ESA and the Portuguese govt.
-- 📫 How to reach us: [https://space.ipn.pt](https://space.ipn.pt)
+ESA Space Solutions Portugal
+----------------------------
 
-# Disclaimer
+> 🚀 We support entrepreneurs with innovative ideas to develop their business in space and on Earth.
 
-[This](index.markdown) is a temporary website, under construction.
+📫 You can reach us at [https://space.ipn.pt](https://space.ipn.pt).
 
-[This other page](test.markdown) is a test.
 
-The permanent site is linked above.
+Apply Here
+----------
 
-| N | Square |
-| --- | --- |
-| 1 | 1 |
-| 2 | 4 | 
-| 3 | 9 |
+- [Open Calls](#open-calls) 
+- [Our Services](#our-services)
+
+Learn More
+----------
+
+- [Our Startups](#our-startups) 
+- [News, Events & Blog](#news-events-blog)
+
+
+Open Calls
+----------
+
+| Call | Deadline | Tags | 
+| --- | --- | --- |
+| 💰 [ESA BIC]() | November 4, 2022 | IPN ESA,SME,funding,now,startup |
+| 💰 [ESA SPARK4Tech]() | September 23, 2022 | IPN ESA,now,startup |
+| 💰 [ESA Spark4Business]() | November 4, 2022 | IPN ESA,now,startup |
+
+
+Our Services
+------------
+| --- | --- | --- |
+| ESA BIC Portugal | Ambassador Platform | Technology Broker |
 
 <!---
 SpacePedroNunes/SpacePedroNunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
