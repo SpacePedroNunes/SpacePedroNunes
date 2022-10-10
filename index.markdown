@@ -32,6 +32,7 @@ Open Calls
 Our Services
 ------------
 
+| | | |
 | --- | --- | --- |
 | ESA BIC Portugal | Ambassador Platform | Technology Broker |
 
