@@ -1,0 +1,26 @@
+Pedro Lacerda:
+  name        : "Pedro Lacerda"
+  bio         : "Astrophysicist and technology broker."
+  avatar      : "/assets/images/Pedro-Lacerda-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:placerda@ipn.pt"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://lacerdapedro.wordpress.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+Carla Duarte:
+  name        : "Carla Duarte"
+  bio         : "Sociologist and space fanatic."
+  avatar      : "/assets/images/Carla-Duarte-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"

@@ -30,9 +30,45 @@ twitter_username: ESAPTcentre
 # github_username:  placerda@ipn.pt
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-notion
+  - jekyll-include-cache
+  - jekyll-feed
+
+# Collections
+collections:
+    - startups
+    - testing
+
+# Notion
+notion:
+    databases:
+        - id: 7b72b8532207498594acc620f7e02086
+          collection: startups
+        - id: 0271047ea5d54575b6d01e618a996685
+          collection: testing
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 
 # Exclude from processing.
 # The following items will not be processed, by default.
