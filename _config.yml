@@ -20,23 +20,28 @@
 
 title: ESA Space Solutions Portugal
 email: space@ipn.pt
+domain: spacepedronunes.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 description: >- # this means to ignore newlines until "baseurl:"
   🚀 We support entrepreneurs with innovative ideas to develop their business
   in space and on Earth.
-domain: SpacePedroNunes.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://SpacePedroNunes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://spacepedroNunes.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ESAPTcentre
 # github_username:  placerda@ipn.pt
+repository: SpacePedroNunes/SpacePedroNunes.github.io
+teaser: /assets/images/ESA_BIC_PT-1200x377.png
+logo: "/assets/images/ESA-SS-logo-88x58.png"
+# masthead_title: "ESA Space Solutions"
 
 # Build settings
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "neon" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
   - jekyll-notion
   - jekyll-include-cache
   - jekyll-feed
+  - jekyll-archives
 
 # Collections
 collections:
@@ -59,10 +64,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: ""

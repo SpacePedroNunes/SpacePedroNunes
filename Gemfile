@@ -35,3 +35,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.7"
 
+# Automatically generate post archives by dates, tags, and categories.
+# https://github.com/jekyll/jekyll-archives
+gem "jekyll-archives"
